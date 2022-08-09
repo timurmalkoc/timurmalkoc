@@ -1,4 +1,4 @@
-### align="center">Hi 👋, I'm Timur Celik
+### Hi 👋, I'm Timur Celik
 
 ## I'm a Husband, Father, Developer, Teacher, and Artist
 - I'm currently working on multiple projets at Coding Temple
