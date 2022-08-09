@@ -6,9 +6,8 @@
 - 2022 Goals: Dive into web development
 - Fun fact: I love draw and painting
 
-<p>
 ## Connect with me: <img src="https://komarev.com/ghpvc/?username=timurmalkoc&label=Profile%20views&color=0e75b6&style=flat" alt="timurmalkoc" /> 
-</p>
+
 <a href="https://www.linkedin.com/in/timurcelik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timurcelik/" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucilu8rwm7ts5j2unbp0ilpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucilu8rwm7ts5j2unbp0ilpa" height="30" width="40" /></a>
