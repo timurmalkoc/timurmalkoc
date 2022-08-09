@@ -1,4 +1,4 @@
-### Hi 👋, I'm Timur Celik &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=timurmalkoc&label=Profile%20views&color=0e75b6&style=flat" alt="timurmalkoc"/> 
+### Hi 👋, I'm Timur Celik <img align="right" src="https://komarev.com/ghpvc/?username=timurmalkoc&label=Profile%20views&color=0e75b6&style=flat" alt="timurmalkoc"/> 
 
 ## I'm a Husband, Father, Developer, Teacher, and Artist
 - I'm currently working on multiple projets at Coding Temple
