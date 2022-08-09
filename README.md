@@ -7,9 +7,7 @@
 - Fun fact: I love draw and painting
 
 <p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=timurmalkoc&label=Profile%20views&color=0e75b6&style=flat" alt="timurmalkoc" /> </p>
-<p align="rigth"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-## Connect with me:
+## Connect with me: <img src="https://komarev.com/ghpvc/?username=timurmalkoc&label=Profile%20views&color=0e75b6&style=flat" alt="timurmalkoc" /> 
 </p>
 <a href="https://www.linkedin.com/in/timurcelik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timurcelik/" height="30" width="40" /></a>
 
