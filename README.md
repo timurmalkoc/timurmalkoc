@@ -22,9 +22,9 @@
 [![codewars stats][codewars stats]][codewars url]
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=timurmalkoc&show_icons=true&locale=en&layout=radical" alt="timurmalkoc" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=timurmalkoc&show_icons=true&locale=en" alt="timurmalkoc" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=timurmalkoc&" alt="timurmalkoc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timurmalkoc&show_icons=true&locale=en&layout=radical" alt="timurmalkoc" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=timurmalkoc&show_icons=true&locale=en" alt="timurmalkoc" /></p>
+<p><img align="right"src="https://github-readme-streak-stats.herokuapp.com/?user=timurmalkoc&" alt="timurmalkoc" /></p>
 </div>
 
 [codewars stats]: https://www.codewars.com/users/timurcelik/badges/large
