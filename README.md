@@ -4,7 +4,7 @@
 - I'm currently working on multiple projets at Coding Temple
 - I'm learning full stack web development
 - 2022 Goals: Dive into web development
-- Fun fact: I love draw and painting
+- Fun fact: I love drawing and painting
 
 
 <div id="header" align="center">
