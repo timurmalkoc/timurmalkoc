@@ -10,12 +10,10 @@
 <div id="header" align="center">
 <h1>Connect with me:</h1> 
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/timurcelik/)
-[![YouTube Badge](https://img.shields.io/youtube/channel/views/UCilu8rWM7Ts5J2UNbP0ILpA?color=blue&label=YouTube&logo=Youtube&logoColor=red&style=plastic)](https://www.youtube.com/channel/UCilu8rWM7Ts5J2UNbP0ILpA)
-[![GitHub](https://img.shields.io/twitter/url?label=GitHub&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2Ftimurmalkoc)](https://github.com/timurmalkoc/) 
-
-
-<a href="https://pin.it/PLXWGmD" target="blank"><img align="center" src="https://api.iconify.design/logos/pinterest.svg" alt="https://pin.it/PLXWGmD" height="30" width="40" /></a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue&style=plastic)](https://www.linkedin.com/in/timurcelik/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&color=blue&label=YouTube&logo=Youtube&logoColor=red&style=plastic)](https://www.youtube.com/channel/UCilu8rWM7Ts5J2UNbP0ILpA)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&label=GitHub&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2Ftimurmalkoc)](https://github.com/timurmalkoc/) 
+[![Pinterest Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&color=blue&label=Pinterest&logo=pinterest&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimurcelik%2F)](https://pin.it/PLXWGmD)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
