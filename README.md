@@ -10,9 +10,11 @@
 <div id="header" align="center">
 <h1>Connect with me:</h1> 
   
-[![Linkedin Badge](https://img.shields.io/badge/-timurcelik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timurcelik/)](https://www.linkedin.com/in/timurcelik/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/timurcelik/)
+[![YouTube Badge](https://img.shields.io/youtube/channel/views/UCilu8rWM7Ts5J2UNbP0ILpA?color=blue&label=YouTube&logo=Youtube&logoColor=red&style=plastic)](https://www.youtube.com/channel/UCilu8rWM7Ts5J2UNbP0ILpA)
+  
 <a href="https://github.com/timurmalkoc" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@timurmalkoc-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCilu8rWM7Ts5J2UNbP0ILpA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCilu8rWM7Ts5J2UNbP0ILpA" height="30" width="40" /></a>
+
 <a href="https://pin.it/PLXWGmD" target="blank"><img align="center" src="https://api.iconify.design/logos/pinterest.svg" alt="https://pin.it/PLXWGmD" height="30" width="40" /></a>
 </div>
 
