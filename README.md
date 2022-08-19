@@ -24,6 +24,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/timurmalkoc?theme=unicorn)](https://leetcode.com/timurmalkoc)
 </div>
+
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timurmalkoc&show_icons=true&locale=en&layout=radical" alt="timurmalkoc" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=timurmalkoc&show_icons=true&locale=en" alt="timurmalkoc" /></p>
