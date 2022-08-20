@@ -29,7 +29,7 @@
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
     </td>
     <td align="center">
-      <a href="https://timurcelik-phonebook.herokuapp.com/">Phonebook</a>
+      <a href="https://timurcelik-phonebook.herokuapp.com/" target="_blank">Phonebook</a>
     </td>
   </tr>
 </table> 
