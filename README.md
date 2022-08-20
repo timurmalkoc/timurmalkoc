@@ -32,6 +32,14 @@
       <a href="https://timurcelik-phonebook.herokuapp.com/" target="_blank">Phonebook</a>
     </td>
   </tr>
+  <tr>
+   <td align="center">
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+   </td>
+   <td align="center">
+   <a href="https://github.com/timurmalkoc/Car-Dealership-DB">Car Dealership DB and ERD</a>
+   </td>
+  </tr>
 </table> 
 
 
