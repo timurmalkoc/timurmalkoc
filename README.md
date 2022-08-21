@@ -53,6 +53,8 @@
      <a href="https://testng.org/doc/" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="TestNG" width="30" height="30"/> </a>
      <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/cucumber-130-1175236.png" alt="cucumber" width="30" height="30"/> </a>
      <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="30" height="30"/> </a>
+     <!-- Mysql -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
    </td>
    <td align="center">
    <a href="https://github.com/timurmalkoc/AutomationProject">Test Automation for UI testing, DB Testig and API Testing</a>
