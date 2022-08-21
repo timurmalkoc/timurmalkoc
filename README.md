@@ -40,6 +40,15 @@
    <a href="https://github.com/timurmalkoc/Car-Dealership-DB">Car Dealership DB and ERD</a>
    </td>
   </tr>
+  <tr>
+   <td align="center">
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a> 
+   </td>
+   <td align="center">
+   <a href="https://github.com/timurmalkoc/AutomationProject">Test Automation for UI testing, DB Testig and API Testing</a>
+   </td>
+  </tr>
 </table> 
 
 
