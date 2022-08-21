@@ -104,7 +104,11 @@
 <!-- Selenium -->
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <!-- Cucumber -->
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/cucumber-130-1175236.png" alt="cucumber" width="40" height="40"/> </a>    
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/cucumber-130-1175236.png" alt="cucumber" width="40" height="40"/> </a>
+<!-- joomla -->
+<a href="https://www.joomla.org/" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/sicons/basic-round-social/512/joomla-icon.png" alt="joomla" width="40" height="40"/> </a>
+<!-- wordpress -->
+<a href="https://wordpress.com/" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a> 
 <!-- Illustrator -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <!-- PS -->
