@@ -120,7 +120,7 @@
 </div>
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timurmalkoc&show_icons=true&locale=en&layout=radical" alt="timurmalkoc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timurmalkoc&&hide=jupyter%20notebook&langs_count=8&show_icons=true&locale=en&layout=radical" alt="timurmalkoc" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=timurmalkoc&show_icons=true&locale=en" alt="timurmalkoc" /></p>
 <p><img align="right"src="https://github-readme-streak-stats.herokuapp.com/?user=timurmalkoc&" alt="timurmalkoc" /></p>
 </div>
