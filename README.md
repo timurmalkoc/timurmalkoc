@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Timur Celik <img align="right" src="https://komarev.com/ghpvc/?username=timurmalkoc&label=Profile%20views&color=0e75b6&style=flat" alt="timurmalkoc"/> 
 
-## I'm a Husband, Father, Developer, Teacher, and Artist
+## I'm a Husband, Father, Developer, Teacher, and Artist🎨
 - I'm currently working on multiple projets at Coding Temple
 - I'm learning full stack web development
 - 2022 Goals: Dive into web development
