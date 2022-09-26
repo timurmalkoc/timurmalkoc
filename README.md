@@ -11,9 +11,9 @@
 <h2>Connect with me:</h2> 
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue&style=plastic)](https://www.linkedin.com/in/timurcelik/)
+[![Pinterest Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&color=blue&label=Pinterest&logo=pinterest&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimurcelik%2F)](https://pin.it/PLXWGmD)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&color=blue&label=YouTube&logo=Youtube&logoColor=red&style=plastic)](https://www.youtube.com/channel/UCilu8rWM7Ts5J2UNbP0ILpA)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&label=GitHub&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2Ftimurmalkoc)](https://github.com/timurmalkoc/) 
-[![Pinterest Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&color=blue&label=Pinterest&logo=pinterest&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimurcelik%2F)](https://pin.it/PLXWGmD)
 </div>
 <h2 align="center">Projects</h2> 
 <table align="center">
@@ -31,6 +31,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" title="javascript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
       <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
+<!-- NodeJS -->
+<a href="https://nodejs.org/en/" rel="noreferrer" title="nodejs"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="30" height="30"/> </a>
       <!-- PostgreSQL -->
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
       <!-- Bootstrap -->
@@ -96,6 +98,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" title="javascript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <!-- Flask -->
 <a href="https://flask.palletsprojects.com/" rel="noreferrer" title="flask"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<!-- NodeJS -->
+<a href="https://nodejs.org/en/" rel="noreferrer" title="nodejs"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="40" height="40"/> </a>
 <!-- Jinja -->
 <a href="https://jinja.palletsprojects.com/" rel="noreferrer" title="jinja"> <img src="https://jinja.palletsprojects.com/en/3.0.x/_static/jinja-logo-sidebar.png" alt="jinja" width="40" height="40"/> </a>
 <!-- React -->
