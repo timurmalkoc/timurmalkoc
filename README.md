@@ -23,6 +23,21 @@
   </tr>
   <tr>
     <td align="center">
+      <!-- JavaScrip -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" title="javascript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+      <!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
+      <!-- HTML 5 -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
+      <!-- CSS3 -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
+    </td>
+    <td align="center">
+      <a href="https://timurmalkoc.github.io/MyPortfolio/" target="_blank">My Portfolio Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <!-- Python -->
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
       <!-- Flask -->
