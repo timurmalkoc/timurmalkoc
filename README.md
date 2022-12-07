@@ -13,7 +13,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue&style=plastic)](https://www.linkedin.com/in/timurcelik/)
 [![Pinterest Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&color=blue&label=Pinterest&logo=pinterest&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimurcelik%2F)](https://pin.it/PLXWGmD)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&color=blue&label=YouTube&logo=Youtube&logoColor=red&style=plastic)](https://www.youtube.com/channel/UCilu8rWM7Ts5J2UNbP0ILpA)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&label=GitHub&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2Ftimurmalkoc)](https://github.com/timurmalkoc/) 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&label=Portfolio&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2Ftimurmalkoc)](https://timurmalkoc.github.io/MyPortfolio/) 
 </div>
 <h2 align="center">Projects</h2> 
 <table align="center">
