@@ -34,6 +34,8 @@
     </td>
     <td align="center">
       <a href="https://timurmalkoc.github.io/Food-Order/" target="_blank">Food Order Live</a>
+      <==>
+      <a href="https://timurmalkoc.github.io/Redux-Advanced/" target="_blank">Redux Version Live</a>
     </td>
   </tr>
   <tr>
